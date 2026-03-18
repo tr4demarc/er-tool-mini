@@ -9,6 +9,8 @@ Will only work on Windows.
 2. Run `ER-Tool-mini.exe`
 
 ## Run using Python
+1. Start Elden Ring
+2. Open Terminal
 ```
 python main.py
 ```
@@ -16,6 +18,6 @@ If you run into issues:
 ```
 > venv venv
 > venv\Scripts\activate
-> pip install -r requirements.txt`
+> pip install -r requirements.txt
 > python main.py
 ```
