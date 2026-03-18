@@ -6,7 +6,7 @@ import triggers
 def main():
 
     print(
-        "==========ER Tool mini=========="
+        "==========ER Tool mini==========\n"
         "Listening.\n"
         "- Ctrl+S to import savestate\n"
         "- Ctrl+L to load savestate\n"
