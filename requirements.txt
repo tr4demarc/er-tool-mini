@@ -1,0 +1,4 @@
+keyboard==0.13.5
+Pymem==1.14.0
+pywin32==311
+pywin32-ctypes==0.2.3

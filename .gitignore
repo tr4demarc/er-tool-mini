@@ -1,0 +1,10 @@
+# Pycache
+__pycache__/
+
+# Virtual env
+venv/
+
+# Builds
+build/
+dist/
+*.spec
