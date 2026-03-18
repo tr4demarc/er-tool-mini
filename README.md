@@ -1,3 +1,4 @@
+# ER Tool Mini
 A minimal Elden Ring Practice Tool written in Python.
 
 Will only work on Windows.
@@ -5,7 +6,7 @@ Will only work on Windows.
 ## How to run using binary
 
 1. Start Elden Ring
-2. Run `ER Tool mini.exe`
+2. Run `ER-Tool-mini.exe`
 
 ## Run using Python
 
