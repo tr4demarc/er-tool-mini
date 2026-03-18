@@ -14,7 +14,7 @@ Will only work on Windows.
 
 If you run into issues:
 
-1. venv venv
-2. venv\Scripts\activate
-3. pip install -r requirements.txt
-4. python main.py
+1.` venv venv`
+2.` venv\Scripts\activate`
+3. `pip install -r requirements.txt`
+4.` python main.py`
