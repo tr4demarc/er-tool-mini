@@ -1,9 +1,13 @@
 # ER Tool Mini
 A minimal Elden Ring Practice Tool written in Python.
-<img width="415" height="223" alt="{CA6AB216-7708-43DF-A9D0-7818B372E768}" src="https://github.com/user-attachments/assets/e6a81024-b019-48b7-b315-a2288da8d5ae" />
-(On the load save state screen use PgUp / PgDown to move save states)
 
-Will only work on Windows.
+<img width="415" height="223" alt="{CA6AB216-7708-43DF-A9D0-7818B372E768}" src="https://github.com/user-attachments/assets/e6a81024-b019-48b7-b315-a2288da8d5ae" />
+
+Includes save state manager, fast quitout, and rune arc toggle.
+
+On the load save state screen use PgUp / PgDown to move save states.
+
+Will only work on Windows. Use this only offline / with EAC disabled. See https://www.nexusmods.com/eldenring/mods/90.
 
 ## How to run using binary
 
