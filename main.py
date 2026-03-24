@@ -9,7 +9,7 @@ def main():
         "==========ER Tool mini==========\n"
         "Listening.\n"
         "- Ctrl+S to import savestate\n"
-        "- Ctrl+L to load savestate\n"
+        "- . to load savestate\n"
         "- P to trigger quitout\n"
         "- O to toggle rune arc\n"
         "Press Ctrl+C to exit."
@@ -17,7 +17,7 @@ def main():
 
     keyboard.add_hotkey("P", triggers.trigger_quitout)
     keyboard.add_hotkey("Ctrl+S", triggers.trigger_import_savestate)
-    keyboard.add_hotkey("Ctrl+L", triggers.trigger_administer_savestate)
+    keyboard.add_hotkey(".", triggers.trigger_administer_savestate)
     keyboard.add_hotkey("O", triggers.trigger_toggle_runarc)
 
     keyboard.wait()

@@ -1,0 +1,1 @@
+pyinstaller --onefile --console --clean --icon=icon.ico --name "ER-Tool-mini" main.py

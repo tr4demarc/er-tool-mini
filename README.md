@@ -1,5 +1,8 @@
 # ER Tool Mini
+
 A minimal Elden Ring Practice Tool written in Python.
+
+<img width="415" height="223" alt="Er Tool mini" src="image.png" />
 
 Will only work on Windows.
 
@@ -9,10 +12,13 @@ Will only work on Windows.
 2. Run `ER-Tool-mini.exe`
 
 ## Run using Python
+
 ```
 python main.py
 ```
+
 If you run into issues:
+
 ```
 > venv venv
 > venv\Scripts\activate
